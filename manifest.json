@@ -1,0 +1,75 @@
+{
+ "lang": "en-US",
+ "short_name": "Plumber",
+ "name": "Plumber Near Me",
+ "description": "Need a plumber? 1-877-drpipes will instantly connect you with a plumber in your area. 24h emergency plumbers are on-call",
+ "categories": ["plumber", "plumbing", "local plumber", "plumber near me", "emergency plumber", "unclogging", "pipe repair", "plumbing installations"],
+ "prefer_related_applications": true,
+ "related_applications": [{
+    "platform": "play",
+    "url": "https://play.google.com/store/apps/details?id=com.drpipes.plumbers",
+    "iarc_rating_id": "8cd14aca-6a66-4200-ac90-bc7e9235ffe4",
+    "id": "com.drpipes.plumbers"
+  },
+{
+    "platform": "play",
+    "url": "https://play.google.com/store/apps/details?id=com.plumber.near.me",
+    "iarc_rating_id": "97e2b51f-71ba-42e5-8fe1-2247fa352133",
+    "id": "com.plumber.near.me"
+  },
+{
+    "platform": "play",
+    "url": "https://play.google.com/store/apps/details?id=com.emergency.plumbers",
+    "iarc_rating_id": "842b818b-c9ef-4ff6-9fff-12c2601735ac",
+    "id": "com.emergency.plumbers"
+  }],
+ "icons": [
+  {
+   "src": "\/android-icon-36x36.png",
+   "sizes": "36x36",
+   "type": "image\/png",
+   "density": "0.75"
+  },
+  {
+   "src": "\/android-icon-48x48.png",
+   "sizes": "48x48",
+   "type": "image\/png",
+   "density": "1.0"
+  },
+  {
+   "src": "\/android-icon-72x72.png",
+   "sizes": "72x72",
+   "type": "image\/png",
+   "density": "1.5"
+  },
+  {
+   "src": "\/android-icon-96x96.png",
+   "sizes": "96x96",
+   "type": "image\/png",
+   "density": "2.0"
+  },
+  {
+   "src": "\/android-icon-144x144.png",
+   "sizes": "144x144",
+   "type": "image\/png",
+   "density": "3.0"
+  },
+  {
+   "src": "\/android-icon-192x192.png",
+   "sizes": "192x192",
+   "type": "image\/png",
+   "density": "4.0"
+  },
+  {
+   "src": "\/android-icon-512x512.png",
+   "sizes": "512x512",
+   "type": "image\/png",
+   "density": "5.0"
+  }
+ ],
+  "start_url": ".",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
+}
